@@ -3,3 +3,4 @@
 # Copyright (c) 2011 The Chromium OS Authors.
 
 obj-y	:= sandbox.o
+obj-y	+= rgbled.o
